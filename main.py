@@ -42,7 +42,7 @@ while menu != 5:
 		continue
 
 	if menu == 1:
-		pass  # fazer função Funcção do Jony
+		pass  # fazer função Função do Jony
 	elif menu == 2:
 		pass  # fazer função Função do Brown    
 	elif menu == 3:
@@ -50,7 +50,7 @@ while menu != 5:
 	elif menu == 4:
 		pass  # fazer função Função do Ramos
 	elif menu == 5:
-		pass  # fazer função do Jony
+		pass  # fazer função Função do Jony
 	elif menu == 6:
 		print("Programa fechado.")      # Se em cima definir se que os profissionais e especialidades vao ser introduzidas
 	else:                               # Então alguem irá ter essa função para fzr
