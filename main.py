@@ -8,9 +8,9 @@ import time
 
 menu = 0
 limite_de_consultas_diarias = [0,0,0] # Cada um destes valores é o limite diario respetivo de cada profissional
-profissionais = []  # Ainda a definir se ficam já predefinidos ou não
-especialidades = [] # Se os profissionais foram predefinidos as especialidades tb 
-dias = []           # Se não as especialidades sao definidas pelo user quando este introduzir os profissiomais
+profissionais = ['Dra. Ana Silva', 'Dr. Rui Costa', 'Dra. Marta Reis']
+especialidades = []  
+dias = []
 consultas = [
 	[0, 0, 0, 0, 0],
 	[0, 0, 0, 0, 0],
