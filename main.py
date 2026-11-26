@@ -9,7 +9,7 @@ import time
 menu = 0
 limite_de_consultas_diarias = [0,0,0] # Cada um destes valores é o limite diario respetivo de cada profissional
 profissionais = ['Dra. Ana Silva', 'Dr. Rui Costa', 'Dra. Marta Reis']
-especialidades = []  
+especialidades = ['Medicina Geral', 'Dermatologia', 'Pediatria']
 dias = []
 consultas = [
 	[0, 0, 0, 0, 0],
