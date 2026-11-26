@@ -37,7 +37,7 @@ while menu != 5:
 	try:
 		menu = int(input("O que deseja fazer: "))
 	except ValueError:
-		print("Entrada inválida. Por favor, insira um número de 1 a 5.")
+		print("Entrada inválida. Por favor, insira um número de 1 a 6.")
 		time.sleep(1.5)
 		continue
 
@@ -52,8 +52,8 @@ while menu != 5:
 	elif menu == 5:
 		pass  # fazer função Função do Jony
 	elif menu == 6:
-		print("Programa fechado.")      # Se em cima definir se que os profissionais e especialidades vao ser introduzidas
-	else:                               # Então alguem irá ter essa função para fzr
+		print("Programa fechado.")
+	else:
 		print("Opção inválida.")
 		time.sleep(1.5)
 			
