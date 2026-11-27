@@ -17,7 +17,7 @@ consultas = [
 	[0, 0, 0, 0, 0]  # Nesta matriz as linhas são uma para cada um dos 3 profissionais e em cada linha tas as suas consultas 
 ]					 # Cada coluna é um dia, 1º coluna é segunda, 2º coluna é terça e por ai adiante
 
-while menu != 5:
+while menu != 6:
 	print(r"""
 	/===========================\
 	|Bem vindo/a à plataforma de|
