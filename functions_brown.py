@@ -1,8 +1,3 @@
-consultas = [
-	[0,0,0],
-	[0,0,0]
-]
-limite_de_consultas_diarias = [0,6,0]
 
 def registar_uma_consulta():
 	print(r"""
